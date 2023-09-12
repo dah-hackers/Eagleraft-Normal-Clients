@@ -1,7 +1,7 @@
 # Eagleraft-Normal-Clients
 Normal Eaglercraft clients to play on.
 
-Links:
+Files:
 
 [EaglerReborn 1.8](https://github.com/dah-hackers/Eagleraft-Normal-Clients/blob/main/EaglerReborn_1.8_indev_Offline_International.html)
 
